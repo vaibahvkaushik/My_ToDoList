@@ -1,4 +1,3 @@
-# My_ToDoList
 # Getting Started with My_Todo_List
 This project was bootstrapped with ReactJs.
 
@@ -19,23 +18,23 @@ You may also see any lint errors in the console.
 This is the main file of this project that include all the imported react files and relevant files that need to 
 create that app.
 
-###'Todos.js'
+### `Todos.js`
 That File having all the items in the list from using props method and arrow function alonwith using some basic CSS.
 
-### 'TodoItems.js'
+### `TodoItems.js`
 That File having all the items are arranged in the TODO list.
 
-### 'Footer.js'
+### `Footer.js`
 That File having the footer information of this TODO list page.
 
 
-### 'AddTodo.js'
+### `AddTodo.js`
 That File is important in this App because that include the main part of this APP i.e ADD or deleting the items in the list
 with the help of classes and arrow function.
 
 
-### 'Header.js'
+### `Header.js`
 That File having the Two Link i.e Home and AboutUs Page alongwith Having Search Bar.
 
-### 'About.js'
+### `About.js`
 That File having the Basic Information.
